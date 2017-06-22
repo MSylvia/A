@@ -1,0 +1,3 @@
+[submodule "external/b"]
+	path = external/b
+	url = git@github.com:msylvia/b
