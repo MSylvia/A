@@ -1,3 +1,4 @@
 [submodule "external/b"]
-	path = external/b
-	url = git@github.com:msylvia/b
+    path = external/b
+    url = git@github.com:msylvia/b
+    branch = test_1-18_2
